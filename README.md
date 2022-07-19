@@ -122,7 +122,7 @@
 
 
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rishi2602&theme=dark&hide_border:true" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rishi2602&theme=light&hide_border:true" />
 </div>
 <hr/>
 <div align="center">
