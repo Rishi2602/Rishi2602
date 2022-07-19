@@ -121,7 +121,8 @@
 <br/>
 
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rishi2602&hide_border=true&fire=DD2727" alt="Rishi2602" />
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rishi2602&theme=dark&hide_border:true" />
 </div>
 <hr/>
 <div align="center">
@@ -131,7 +132,7 @@
 <br/>
 
 
- <img  alt="Rishi Marodia GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rishi2602&show_icons=true&fire=DD2727" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rishi2602&show_icons=true&theme=radical" />
 
 </div>
  <hr/>
