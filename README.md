@@ -100,6 +100,7 @@
 &nbsp;&nbsp;<img alt="Python" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 &nbsp;&nbsp;<img alt="React" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 &nbsp;&nbsp;<img alt="Git" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="jekyll" width="40" height="40"/>
 &nbsp;&nbsp;<img alt="GitHub" width="60px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 &nbsp;&nbsp;<img alt="Terminal" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 &nbsp;&nbsp;<img alt="Django"  width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/1280px-Django_logo.svg.png" />
